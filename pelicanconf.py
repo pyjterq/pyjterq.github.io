@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Pyjter'
 SITENAME = 'Hermes'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://pyjterq.github.io'
 
 PATH = 'content'
 
